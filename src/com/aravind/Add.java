@@ -37,6 +37,10 @@ public class Add {
 //			sum=sum+b;
 //		}
 //		System.out.println(sum);
+		
+		System.out.println("Aravind");
+		System.out.println("praneesh");
+		System.out.println("nirmal");
 //		
 	}
 
